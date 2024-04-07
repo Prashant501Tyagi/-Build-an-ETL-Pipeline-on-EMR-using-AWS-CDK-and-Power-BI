@@ -78,27 +78,6 @@ Language: Python
 Services: AWS S3, AWS Cloud9, AWS CDK, AWS EMR, Power BI, Apache Hive
 
 
-Key Takeaways
-● Understanding the Sales dataset
-● Understanding the AWS CDK
-● Installation of AWS CDK and its various commands
-● Advantages of Serverless technologies
-● Creating an AWS Cloud9 environment
-● Understanding the difference between AWS and Azure
-● Difference between UUID and NanoID
-● Difference between Hive and Spark
-● Understanding the S3 Bucket deployment stack
-● Understanding the Security stack
-● Understanding the Hive script to create tables
-● Understanding the Hive script to transform data
-● Understanding the EMR cluster stack
-● Deployment of AWS CDK stacks
-● Debugging of AWS CDK stacks
-● Setting up a Virtual Machine in Azure
-● Connecting to Hive tables using Power BI
-● Creating visualizations using Power BI
-Architecture Diagram:
-
 
 
 
